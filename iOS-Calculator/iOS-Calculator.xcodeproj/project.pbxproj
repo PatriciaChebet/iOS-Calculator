@@ -498,6 +498,7 @@
 				A67671BE1D250E97008E810D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A67671BF1D250E97008E810D /* Build configuration list for PBXNativeTarget "iOS-CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +507,7 @@
 				A67671C11D250E97008E810D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A67671C21D250E97008E810D /* Build configuration list for PBXNativeTarget "iOS-CalculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +516,7 @@
 				A67671C41D250E97008E810D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
